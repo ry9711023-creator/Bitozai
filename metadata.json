@@ -1,0 +1,6 @@
+{
+  "name": "BizPilot AI",
+  "description": "Your AI Employee for Everyday Business — managing sales, inventory, customers, and expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

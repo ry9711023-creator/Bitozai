@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- AI Glow Sparks -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M78,32 L81,28 L85,27 L81,26 L80,22 L78,26 L74,27 L78,28 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M30,42 L31,39 L34,38 L31,37 L30,34 L29,37 L26,38 L29,39 Z" />
+
+    <!-- Growth Bars representing Business Metrics -->
+    <path
+        android:fillColor="#80E040FB"
+        android:pathData="M28,66h4v12h-4z" />
+    <path
+        android:fillColor="#80E040FB"
+        android:pathData="M36,58h4v20h-4z" />
+    <path
+        android:fillColor="#A0E040FB"
+        android:pathData="M44,48h4v30h-4z" />
+
+    <!-- Rising Star Sparkle at target flight coordinate -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M72,46 L74,42 L78,41 L74,40 L72,36 L70,40 L66,41 L70,42 Z" />
+
+    <!-- Sleek 3D Paper Airplane (The Pilot) -->
+    <!-- Left Wing (Bright White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,52 L76,38 L48,62 Z" />
+        
+    <!-- Right Wing & Keel (Premium Light Grey) -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M36,52 L76,38 L50,72 L48,62 Z" />
+        
+    <!-- 3D Keel Underfold (Shadow Grey) -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M48,62 L50,72 L44,70 Z" />
+
+</vector>
